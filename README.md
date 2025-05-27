@@ -5,6 +5,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/harel.hazan.37/)](https://www.facebook.com/harel.hazan.37/)
 
 👨‍💻 Full Stack Developer | System Architect | Cloud-Native Enthusiast
+
+
 I'm Harel Hazan, a Full Stack Developer with over 5 years of experience in designing and building scalable, high-performance web applications and enterprise-grade systems. I specialize in creating clean, maintainable code and robust backend services, with a strong emphasis on system design, performance, and developer experience.
 
 I’ve worked across the full stack — from building dynamic React-based SPAs with Redux and Hooks, to architecting microservices with .NET Core and NestJS, and deploying them on cloud platforms like AWS and Azure using Docker and Kubernetes. I bring a deep understanding of RESTful APIs, database design (PostgreSQL, MongoDB), message queues (Kafka), caching (Redis), and modern DevOps practices.
