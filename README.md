@@ -1,39 +1,24 @@
-<div align="center">
+## Harel Hazan
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hazandev@gmail.com)](mailto:hazandev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+972584588812&text=Hi!)](https://api.whatsapp.com/send?phone=+97254588812&text=Hi!)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/harel.hazan.37/)](https://www.facebook.com/harel.hazan.37/)
 
-# 👋 Harel Hazan
+👨‍💻 Full Stack Developer | System Architect | Cloud-Native Enthusiast
 
-### Senior Full Stack Developer
+I'm Harel Hazan, a Full Stack Developer with over 5 years of experience in designing and building scalable, high-performance web applications and enterprise-grade systems. I specialize in creating clean, maintainable code and robust backend services, with a strong emphasis on system design, performance, and developer experience.
 
-**Web · Mobile · Backend · Cloud · System Architecture**
+I’ve worked across the full stack — from building dynamic React-based SPAs with Redux and Hooks, to architecting microservices with .NET Core and NestJS, and deploying them on cloud platforms like AWS and Azure using Docker and Kubernetes. I bring a deep understanding of RESTful APIs, database design (PostgreSQL, MongoDB), message queues (Kafka), caching (Redis), and modern DevOps practices.
 
-</div>
-
-<br>
-
-I'm a **Senior Full Stack Developer with 8+ years of hands-on experience** designing, building, and evolving production systems across **web, mobile, backend, and cloud**.
-
-My experience spans **React, React Native, TypeScript, Node.js, and NestJS** — from building complex user-facing applications and scalable APIs to designing **microservices and distributed architectures**.
-
-I work extensively with **AWS, Docker, PostgreSQL, Redis, Kafka, and modern CI/CD practices**, with a strong focus on **system design, performance, testing, observability, security, and maintainable architecture**.
-
-Beyond feature development, I'm passionate about improving engineering foundations through **reusable libraries, service templates, scaffolding, automation, and developer experience** — building systems that are not only scalable in production, but also easier for teams to understand, maintain, and extend.
-
-<br>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
-
-<br>
-
-**Building products end-to-end — from UI to distributed systems and cloud infrastructure.**
-
-</div>
+- :books: a Software Engineer Graduate (B.Sc).
+- :pushpin: Interests: Development, UX, and UI Design.
+- **Technologies and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
