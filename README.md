@@ -54,10 +54,3 @@ My technical experience also includes **distributed systems, reusable libraries,
 
 <br/>
 
-<div align="center">
-
-### Building products end-to-end
-
-**UI → Applications → APIs → Microservices → Distributed Systems → Cloud Infrastructure**
-
-</div>
