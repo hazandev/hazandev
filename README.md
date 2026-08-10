@@ -1,31 +1,39 @@
+<div align="center">
+
 # 👋 Harel Hazan
 
-### Senior Full Stack Developer | React & React Native | Backend | Cloud
+### Senior Full Stack Developer
 
-I'm a **Senior Full Stack Developer with 8+ years of experience**, building production systems across web, mobile, backend and cloud.
+**Web · Mobile · Backend · Cloud · System Architecture**
 
-I specialize in **React, React Native, TypeScript and NestJS**, with a strong focus on **microservices, system architecture, AWS and developer experience**.
+</div>
 
-I enjoy building systems end-to-end — from user-facing applications to scalable backend services and cloud infrastructure.
+<br>
 
----
+I'm a **Senior Full Stack Developer with 8+ years of hands-on experience** designing, building, and evolving production systems across **web, mobile, backend, and cloud**.
 
-### ⚛️ Frontend & Mobile
+My experience spans **React, React Native, TypeScript, Node.js, and NestJS** — from building complex user-facing applications and scalable APIs to designing **microservices and distributed architectures**.
 
-`React` · `React Native` · `TypeScript` · `Redux Toolkit`
+I work extensively with **AWS, Docker, PostgreSQL, Redis, Kafka, and modern CI/CD practices**, with a strong focus on **system design, performance, testing, observability, security, and maintainable architecture**.
 
-### ⚙️ Backend
+Beyond feature development, I'm passionate about improving engineering foundations through **reusable libraries, service templates, scaffolding, automation, and developer experience** — building systems that are not only scalable in production, but also easier for teams to understand, maintain, and extend.
 
-`NestJS` · `Node.js` · `Microservices` · `REST APIs` · `Prisma`
+<br>
 
-### ☁️ Cloud & Infrastructure
+<div align="center">
 
-`AWS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Kafka` · `SQS` · `SNS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
 
-### 🧠 Engineering
+<br>
 
-`System Design` · `Distributed Systems` · `Testing` · `CI/CD` · `Observability` · `Developer Experience`
+**Building products end-to-end — from UI to distributed systems and cloud infrastructure.**
 
----
-
-[LinkedIn](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/) · [Email](mailto:hazandev@gmail.com)
+</div>
