@@ -1,6 +1,4 @@
-## 👨‍💻 About Me
-
-I'm a **Senior Full Stack Developer with 8+ years of experience** building production applications across **web, mobile, backend and cloud infrastructure**.
+**Senior Full Stack Developer with 8+ years of experience** building production applications across **web, mobile, backend and cloud infrastructure**.
 
 My experience spans the complete application lifecycle — from building complex user experiences with **React and React Native**, through designing APIs and microservices with **NestJS, Node.js and TypeScript**, to deploying and operating distributed systems on **AWS**.
 
