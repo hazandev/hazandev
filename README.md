@@ -1,24 +1,63 @@
-## Harel Hazan
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hazandev@gmail.com)](mailto:hazandev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+972584588812&text=Hi!)](https://api.whatsapp.com/send?phone=+97254588812&text=Hi!)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/harel.hazan.37/)](https://www.facebook.com/harel.hazan.37/)
+<div align="center">
 
-👨‍💻 Full Stack Developer | System Architect | Cloud-Native Enthusiast
+# 👋 Harel Hazan
 
-I'm Harel Hazan, a Full Stack Developer with over 5 years of experience in designing and building scalable, high-performance web applications and enterprise-grade systems. I specialize in creating clean, maintainable code and robust backend services, with a strong emphasis on system design, performance, and developer experience.
+### Senior Full Stack Developer
 
-I’ve worked across the full stack — from building dynamic React-based SPAs with Redux and Hooks, to architecting microservices with .NET Core and NestJS, and deploying them on cloud platforms like AWS and Azure using Docker and Kubernetes. I bring a deep understanding of RESTful APIs, database design (PostgreSQL, MongoDB), message queues (Kafka), caching (Redis), and modern DevOps practices.
+**Web · Mobile · Backend · Cloud · System Architecture**
 
-- :books: a Software Engineer Graduate (B.Sc).
-- :pushpin: Interests: Development, UX, and UI Design.
-- **Technologies and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:hazandev@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Senior Full Stack Developer with 8+ years of hands-on experience** designing, building, and evolving production systems across **web, mobile, backend, and cloud**.
+
+My experience spans **React, React Native, TypeScript, Node.js, and NestJS** — from building complex user-facing applications and scalable APIs to designing **microservices and distributed architectures**.
+
+I work extensively with **AWS, Docker, PostgreSQL, Redis, Kafka, and modern CI/CD practices**, with a strong focus on **system design, performance, testing, observability, security, and maintainable architecture**.
+
+My technical experience also includes **distributed systems, reusable libraries, service templates, scaffolding, automation, and developer tooling**, with an emphasis on building **reliable and maintainable engineering foundations**.
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+</p>
+
+<br/>
+
+<div align="center">
+
+### Building products end-to-end
+
+**UI → Applications → APIs → Microservices → Distributed Systems → Cloud Infrastructure**
+
+</div>
