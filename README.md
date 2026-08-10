@@ -1,25 +1,103 @@
-## Harel Hazan
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hazandev@gmail.com)](mailto:hazandev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+972584588812&text=Hi!)](https://api.whatsapp.com/send?phone=+97254588812&text=Hi!)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/harel.hazan.37/)](https://www.facebook.com/harel.hazan.37/)
+## 👨‍💻 About Me
 
-👨‍💻 Full Stack Developer | System Architect | Cloud-Native Enthusiast
+I'm a **Senior Full Stack Developer with 8+ years of experience** building production applications across **web, mobile, backend and cloud infrastructure**.
 
+My experience spans the complete application lifecycle — from building complex user experiences with **React and React Native**, through designing APIs and microservices with **NestJS, Node.js and TypeScript**, to deploying and operating distributed systems on **AWS**.
 
-I'm Harel Hazan, a Full Stack Developer with over 5 years of experience in designing and building scalable, high-performance web applications and enterprise-grade systems. I specialize in creating clean, maintainable code and robust backend services, with a strong emphasis on system design, performance, and developer experience.
+Over the years, my focus has expanded from application development into **system architecture, cloud infrastructure and developer experience**, while maintaining strong hands-on expertise across the full stack.
 
-I’ve worked across the full stack — from building dynamic React-based SPAs with Redux and Hooks, to architecting microservices with .NET Core and NestJS, and deploying them on cloud platforms like AWS and Azure using Docker and Kubernetes. I bring a deep understanding of RESTful APIs, database design (PostgreSQL, MongoDB), message queues (Kafka), caching (Redis), and modern DevOps practices.
+---
 
-- :books: a Software Engineer Graduate (B.Sc).
-- :pushpin: Interests: Development, UX, and UI Design.
-- **Technologies and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## 🧭 Engineering Focus
+
+```text
+                         FULL STACK ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+       Web & Mobile            Backend              Cloud
+             │                    │                    │
+          React                 NestJS                AWS
+       React Native             Node.js              Docker
+          Redux               TypeScript           ECS/Fargate
+       TypeScript             REST APIs           Kubernetes
+             │                    │                    │
+             │              PostgreSQL              VPC / IAM
+             │                Redis                 Messaging
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                       SYSTEM ARCHITECTURE
+                                  │
+                      Developer Experience
+```
+
+---
+
+## ⚛️ Web & Mobile Engineering
+
+**React · React Native · TypeScript · Redux Toolkit**
+
+* Component-driven application architecture
+* Reusable components and custom hooks
+* Client and server-state management
+* API integration and asynchronous data flows
+* Authentication and authorization flows
+* Navigation and complex multi-step flows
+* Form handling and validation
+* Performance-oriented rendering
+* Maintainable frontend architecture
+
+---
+
+## ⚙️ Backend Engineering
+
+**TypeScript · NestJS · Node.js**
+
+* REST API design
+* Microservices architecture
+* Authentication & authorization
+* Modular application architecture
+* PostgreSQL & Prisma
+* Redis caching
+* Kafka and asynchronous messaging
+* Validation and error handling
+* Structured logging and observability
+* Unit, integration and E2E testing
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+**AWS · Docker · Kubernetes**
+
+`ECS / Fargate` · `ECR` · `Lambda` · `API Gateway` · `ALB`
+`RDS` · `DynamoDB` · `S3` · `ElastiCache`
+`SQS` · `SNS` · `EventBridge`
+`IAM` · `VPC` · `CloudWatch` · `Cognito`
+
+---
+
+## 🧱 End-to-End Engineering
+
+```text
+React / React Native
+        ↓
+TypeScript
+        ↓
+Redux Toolkit / API Integration
+        ↓
+NestJS / Node.js
+        ↓
+Microservices
+        ↓
+PostgreSQL · Prisma · Redis
+        ↓
+Kafka · SQS · SNS
+        ↓
+Docker · Containers
+        ↓
+AWS
+        ↓
+Cloud Architecture
+```
