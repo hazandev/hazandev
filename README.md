@@ -1,101 +1,31 @@
-**Senior Full Stack Developer with 8+ years of experience** building production applications across **web, mobile, backend and cloud infrastructure**.
+# 👋 Harel Hazan
 
-My experience spans the complete application lifecycle — from building complex user experiences with **React and React Native**, through designing APIs and microservices with **NestJS, Node.js and TypeScript**, to deploying and operating distributed systems on **AWS**.
+### Senior Full Stack Developer | React & React Native | Backend | Cloud
 
-Over the years, my focus has expanded from application development into **system architecture, cloud infrastructure and developer experience**, while maintaining strong hands-on expertise across the full stack.
+I'm a **Senior Full Stack Developer with 8+ years of experience**, building production systems across web, mobile, backend and cloud.
 
----
+I specialize in **React, React Native, TypeScript and NestJS**, with a strong focus on **microservices, system architecture, AWS and developer experience**.
 
-## 🧭 Engineering Focus
-
-```text
-                         FULL STACK ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-       Web & Mobile            Backend              Cloud
-             │                    │                    │
-          React                 NestJS                AWS
-       React Native             Node.js              Docker
-          Redux               TypeScript           ECS/Fargate
-       TypeScript             REST APIs           Kubernetes
-             │                    │                    │
-             │              PostgreSQL              VPC / IAM
-             │                Redis                 Messaging
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                       SYSTEM ARCHITECTURE
-                                  │
-                      Developer Experience
-```
+I enjoy building systems end-to-end — from user-facing applications to scalable backend services and cloud infrastructure.
 
 ---
 
-## ⚛️ Web & Mobile Engineering
+### ⚛️ Frontend & Mobile
 
-**React · React Native · TypeScript · Redux Toolkit**
+`React` · `React Native` · `TypeScript` · `Redux Toolkit`
 
-* Component-driven application architecture
-* Reusable components and custom hooks
-* Client and server-state management
-* API integration and asynchronous data flows
-* Authentication and authorization flows
-* Navigation and complex multi-step flows
-* Form handling and validation
-* Performance-oriented rendering
-* Maintainable frontend architecture
+### ⚙️ Backend
 
----
+`NestJS` · `Node.js` · `Microservices` · `REST APIs` · `Prisma`
 
-## ⚙️ Backend Engineering
+### ☁️ Cloud & Infrastructure
 
-**TypeScript · NestJS · Node.js**
+`AWS` · `Docker` · `Kubernetes` · `PostgreSQL` · `Redis` · `Kafka` · `SQS` · `SNS`
 
-* REST API design
-* Microservices architecture
-* Authentication & authorization
-* Modular application architecture
-* PostgreSQL & Prisma
-* Redis caching
-* Kafka and asynchronous messaging
-* Validation and error handling
-* Structured logging and observability
-* Unit, integration and E2E testing
+### 🧠 Engineering
+
+`System Design` · `Distributed Systems` · `Testing` · `CI/CD` · `Observability` · `Developer Experience`
 
 ---
 
-## ☁️ Cloud & Infrastructure
-
-**AWS · Docker · Kubernetes**
-
-`ECS / Fargate` · `ECR` · `Lambda` · `API Gateway` · `ALB`
-`RDS` · `DynamoDB` · `S3` · `ElastiCache`
-`SQS` · `SNS` · `EventBridge`
-`IAM` · `VPC` · `CloudWatch` · `Cognito`
-
----
-
-## 🧱 End-to-End Engineering
-
-```text
-React / React Native
-        ↓
-TypeScript
-        ↓
-Redux Toolkit / API Integration
-        ↓
-NestJS / Node.js
-        ↓
-Microservices
-        ↓
-PostgreSQL · Prisma · Redis
-        ↓
-Kafka · SQS · SNS
-        ↓
-Docker · Containers
-        ↓
-AWS
-        ↓
-Cloud Architecture
-```
+[LinkedIn](https://www.linkedin.com/in/idan-harel-hazan-7472401b3/) · [Email](mailto:hazandev@gmail.com)
